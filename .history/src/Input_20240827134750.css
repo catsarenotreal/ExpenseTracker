@@ -1,0 +1,12 @@
+.InputTextBox{
+    text-align:center
+    /* padding: 20px;
+    width: auto;
+    text-align: center;
+    margin: 20px; */
+}
+
+.Amount{
+    padding: 20px;
+    text-align: center;
+}

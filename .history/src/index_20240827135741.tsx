@@ -3,8 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import MainApp from './MainApp';
 import reportWebVitals from './reportWebVitals';
-
-
+import CurrencyInput from 'react-currency-input-field';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
